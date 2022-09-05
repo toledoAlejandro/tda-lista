@@ -18,7 +18,6 @@ int main() {
     listaEnteros->intercambiarDatos(1,4);
     listaEnteros->eliminarDato(5);
 
-
     listaEnteros->iniciarActual();
 
     while (listaEnteros->avanzarActual()){
